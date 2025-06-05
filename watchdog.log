@@ -1,0 +1,963 @@
+[2025-05-04T17:42:14.120Z] Starting system monitor...
+[2025-05-04T17:42:14.123Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-04T17:42:14.124Z] Node.js version: v20.18.1
+[2025-05-04T17:42:14.124Z] Environment: development
+[2025-05-04T17:42:14.147Z] Twitter bot is not running, starting it...
+[2025-05-04T17:42:14.147Z] Executing: Make Twitter bot script executable
+[2025-05-04T17:42:14.170Z] Make Twitter bot script executable completed successfully
+[2025-05-04T17:42:14.170Z] Executing: Start Twitter bot
+[2025-05-04T17:42:18.755Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-04T17:42:18.758Z] Start Twitter bot completed successfully
+[2025-05-04T17:42:18.758Z] Twitter bot started successfully
+[2025-05-04T17:42:18.793Z] Mind9 system is not running, starting it...
+[2025-05-04T17:42:18.794Z] Executing: Make Mind9 script executable
+[2025-05-04T17:42:19.004Z] Make Mind9 script executable completed successfully
+[2025-05-04T17:42:19.004Z] Executing: Start Mind9 system
+[2025-05-04T17:42:19.024Z] Start Mind9 system completed successfully
+[2025-05-04T17:42:19.024Z] Mind9 system started successfully
+[2025-05-04T17:42:19.025Z] System monitor check completed
+[2025-05-04T17:42:19.025Z] System monitor started, checking every 10 minutes
+[2025-05-06T01:17:01.530Z] Starting system monitor...
+[2025-05-06T01:17:01.531Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-06T01:17:01.533Z] Node.js version: v20.18.1
+[2025-05-06T01:17:01.533Z] Environment: development
+[2025-05-06T01:17:01.560Z] Twitter bot is not running, starting it...
+[2025-05-06T01:17:01.560Z] Executing: Make Twitter bot script executable
+[2025-05-06T01:17:01.586Z] Make Twitter bot script executable completed successfully
+[2025-05-06T01:17:01.587Z] Executing: Start Twitter bot
+[2025-05-06T01:17:04.217Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-06T01:17:04.222Z] Start Twitter bot completed successfully
+[2025-05-06T01:17:04.225Z] Twitter bot started successfully
+[2025-05-06T01:17:04.484Z] Mind9 system is not running, starting it...
+[2025-05-06T01:17:04.489Z] Executing: Make Mind9 script executable
+[2025-05-06T01:17:04.566Z] Make Mind9 script executable completed successfully
+[2025-05-06T01:17:04.566Z] Executing: Start Mind9 system
+[2025-05-06T01:17:04.637Z] Start Mind9 system completed successfully
+[2025-05-06T01:17:04.638Z] Mind9 system started successfully
+[2025-05-06T01:17:04.639Z] System monitor check completed
+[2025-05-06T01:17:04.639Z] System monitor started, checking every 10 minutes
+[2025-05-06T01:18:30.297Z] System monitor shutting down due to SIGTERM
+[2025-05-06T01:18:33.387Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T02:54:18.555Z] Starting system monitor...
+[2025-05-06T02:54:18.558Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-06T02:54:18.559Z] Node.js version: v20.18.1
+[2025-05-06T02:54:18.559Z] Environment: development
+[2025-05-06T02:54:18.618Z] Twitter bot is not running, starting it...
+[2025-05-06T02:54:18.618Z] Executing: Make Twitter bot script executable
+[2025-05-06T02:54:18.680Z] Make Twitter bot script executable completed successfully
+[2025-05-06T02:54:18.680Z] Executing: Start Twitter bot
+[2025-05-06T02:54:24.703Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-06T02:54:24.703Z] Start Twitter bot completed successfully
+[2025-05-06T02:54:24.704Z] Twitter bot started successfully
+[2025-05-06T02:54:24.999Z] Mind9 system is not running, starting it...
+[2025-05-06T02:54:24.999Z] Executing: Make Mind9 script executable
+[2025-05-06T02:54:26.999Z] Make Mind9 script executable completed successfully
+[2025-05-06T02:54:26.999Z] Executing: Start Mind9 system
+[2025-05-06T02:54:27.504Z] Start Mind9 system completed successfully
+[2025-05-06T02:54:27.504Z] Mind9 system started successfully
+[2025-05-06T02:54:27.506Z] System monitor check completed
+[2025-05-06T02:54:27.507Z] System monitor started, checking every 10 minutes
+[2025-05-06T03:41:46.821Z] Starting system monitor...
+[2025-05-06T03:41:46.952Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-06T03:41:46.953Z] Node.js version: v20.18.1
+[2025-05-06T03:41:46.953Z] Environment: development
+[2025-05-06T03:41:46.983Z] Twitter bot is not running, starting it...
+[2025-05-06T03:41:46.984Z] Executing: Make Twitter bot script executable
+[2025-05-06T03:41:47.005Z] Make Twitter bot script executable completed successfully
+[2025-05-06T03:41:47.005Z] Executing: Start Twitter bot
+[2025-05-06T03:41:51.024Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-06T03:41:51.025Z] Start Twitter bot completed successfully
+[2025-05-06T03:41:51.025Z] Twitter bot started successfully
+[2025-05-06T03:41:51.430Z] Mind9 system is not running, starting it...
+[2025-05-06T03:41:51.431Z] Executing: Make Mind9 script executable
+[2025-05-06T03:41:51.457Z] Make Mind9 script executable completed successfully
+[2025-05-06T03:41:51.460Z] Executing: Start Mind9 system
+[2025-05-06T03:41:51.480Z] Start Mind9 system completed successfully
+[2025-05-06T03:41:51.481Z] Mind9 system started successfully
+[2025-05-06T03:41:51.482Z] System monitor check completed
+[2025-05-06T03:41:51.482Z] System monitor started, checking every 10 minutes
+[2025-05-06T03:43:26.565Z] System monitor shutting down due to SIGTERM
+[2025-05-06T03:43:28.838Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T03:45:48.175Z] System monitor shutting down due to SIGTERM
+[2025-05-06T03:45:50.834Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T03:48:26.098Z] System monitor shutting down due to SIGTERM
+[2025-05-06T03:48:28.618Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T03:50:39.905Z] System monitor shutting down due to SIGTERM
+[2025-05-06T03:50:42.642Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T03:55:10.094Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T08:01:53.018Z] Starting system monitor...
+[2025-05-06T08:01:53.300Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-06T08:01:53.300Z] Node.js version: v20.18.1
+[2025-05-06T08:01:53.300Z] Environment: development
+[2025-05-06T08:01:53.340Z] Twitter bot is not running, starting it...
+[2025-05-06T08:01:53.341Z] Executing: Make Twitter bot script executable
+[2025-05-06T08:01:53.360Z] Make Twitter bot script executable completed successfully
+[2025-05-06T08:01:53.360Z] Executing: Start Twitter bot
+[2025-05-06T08:01:58.416Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-06T08:01:58.417Z] Start Twitter bot completed successfully
+[2025-05-06T08:01:58.417Z] Twitter bot started successfully
+[2025-05-06T08:01:59.790Z] Mind9 system is not running, starting it...
+[2025-05-06T08:01:59.790Z] Executing: Make Mind9 script executable
+[2025-05-06T08:01:59.839Z] Make Mind9 script executable completed successfully
+[2025-05-06T08:01:59.847Z] Executing: Start Mind9 system
+[2025-05-06T08:02:00.025Z] Start Mind9 system completed successfully
+[2025-05-06T08:02:00.026Z] Mind9 system started successfully
+[2025-05-06T08:02:00.027Z] System monitor check completed
+[2025-05-06T08:02:00.028Z] System monitor started, checking every 10 minutes
+[2025-05-06T09:10:45.843Z] Starting system monitor...
+[2025-05-06T09:10:45.983Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-06T09:10:45.983Z] Node.js version: v20.18.1
+[2025-05-06T09:10:45.983Z] Environment: development
+[2025-05-06T09:10:46.046Z] Twitter bot is not running, starting it...
+[2025-05-06T09:10:46.047Z] Executing: Make Twitter bot script executable
+[2025-05-06T09:10:46.072Z] Make Twitter bot script executable completed successfully
+[2025-05-06T09:10:46.072Z] Executing: Start Twitter bot
+[2025-05-06T09:10:50.074Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-06T09:10:50.076Z] Start Twitter bot completed successfully
+[2025-05-06T09:10:50.076Z] Twitter bot started successfully
+[2025-05-06T09:10:51.024Z] Mind9 system is not running, starting it...
+[2025-05-06T09:10:51.025Z] Executing: Make Mind9 script executable
+[2025-05-06T09:10:51.396Z] Make Mind9 script executable completed successfully
+[2025-05-06T09:10:51.397Z] Executing: Start Mind9 system
+[2025-05-06T09:10:51.673Z] Start Mind9 system completed successfully
+[2025-05-06T09:10:51.675Z] Mind9 system started successfully
+[2025-05-06T09:10:51.676Z] System monitor check completed
+[2025-05-06T09:10:51.676Z] System monitor started, checking every 10 minutes
+[2025-05-06T09:15:24.176Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:17:50.049Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:17:52.632Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:22:08.684Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:22:11.047Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:23:39.485Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:23:41.763Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:27:36.159Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:27:39.405Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:36:30.387Z] Starting system monitor...
+[2025-05-06T09:36:30.388Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-06T09:36:30.388Z] Node.js version: v20.18.1
+[2025-05-06T09:36:30.388Z] Environment: development
+[2025-05-06T09:36:30.424Z] Twitter bot is not running, starting it...
+[2025-05-06T09:36:30.424Z] Executing: Make Twitter bot script executable
+[2025-05-06T09:36:30.438Z] Make Twitter bot script executable completed successfully
+[2025-05-06T09:36:30.438Z] Executing: Start Twitter bot
+[2025-05-06T09:36:33.992Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-06T09:36:33.992Z] Start Twitter bot completed successfully
+[2025-05-06T09:36:33.992Z] Twitter bot started successfully
+[2025-05-06T09:36:34.005Z] Mind9 system is already running
+[2025-05-06T09:36:34.006Z] System monitor check completed
+[2025-05-06T09:36:34.006Z] System monitor started, checking every 10 minutes
+[2025-05-06T09:38:21.349Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:38:23.748Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:39:47.106Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:39:49.682Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:42:29.326Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:42:31.637Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:45:37.702Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:45:40.070Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:47:15.532Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:47:17.813Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:49:00.677Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:49:03.583Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T09:51:41.717Z] System monitor shutting down due to SIGTERM
+[2025-05-06T09:51:43.989Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T22:42:08.837Z] Starting system monitor...
+[2025-05-06T22:42:08.838Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-06T22:42:08.838Z] Node.js version: v20.18.1
+[2025-05-06T22:42:08.838Z] Environment: development
+[2025-05-06T22:42:08.875Z] Twitter bot is not running, starting it...
+[2025-05-06T22:42:08.876Z] Executing: Make Twitter bot script executable
+[2025-05-06T22:42:08.898Z] Make Twitter bot script executable completed successfully
+[2025-05-06T22:42:08.899Z] Executing: Start Twitter bot
+[2025-05-06T22:42:12.369Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 8 tweets per day for better community engagement
+* 1-hour minimum between regular tweets
+* 45-minute minimum for ...
+[2025-05-06T22:42:12.371Z] Start Twitter bot completed successfully
+[2025-05-06T22:42:12.371Z] Twitter bot started successfully
+[2025-05-06T22:42:12.438Z] Mind9 system is already running
+[2025-05-06T22:42:12.440Z] System monitor check completed
+[2025-05-06T22:42:12.440Z] System monitor started, checking every 10 minutes
+[2025-05-06T22:48:05.875Z] System monitor shutting down due to SIGTERM
+[2025-05-06T22:48:08.587Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T22:51:06.012Z] System monitor shutting down due to SIGTERM
+[2025-05-06T22:51:08.439Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T22:51:29.377Z] System monitor shutting down due to SIGTERM
+[2025-05-06T22:51:32.696Z] Another monitor instance appears to be running, skipping startup
+[2025-05-06T22:52:21.024Z] System monitor shutting down due to SIGTERM
+[2025-05-06T22:52:24.290Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:11:44.008Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:11:47.767Z] Starting system monitor...
+[2025-05-07T00:11:47.767Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T00:11:47.767Z] Node.js version: v20.18.1
+[2025-05-07T00:11:47.767Z] Environment: development
+[2025-05-07T00:11:47.808Z] Twitter bot is not running, starting it...
+[2025-05-07T00:11:47.808Z] Executing: Make Twitter bot script executable
+[2025-05-07T00:11:47.837Z] Make Twitter bot script executable completed successfully
+[2025-05-07T00:11:47.838Z] Executing: Start Twitter bot
+[2025-05-07T00:11:50.479Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 8 tweets per day for better community engagement
+* 1-hour minimum between regular tweets
+* 45-minute minimum for ...
+[2025-05-07T00:11:50.479Z] Start Twitter bot completed successfully
+[2025-05-07T00:11:50.479Z] Twitter bot started successfully
+[2025-05-07T00:11:50.534Z] Mind9 system is not running, starting it...
+[2025-05-07T00:11:50.534Z] Executing: Make Mind9 script executable
+[2025-05-07T00:11:51.052Z] Make Mind9 script executable completed successfully
+[2025-05-07T00:11:51.064Z] Executing: Start Mind9 system
+[2025-05-07T00:11:51.663Z] Start Mind9 system completed successfully
+[2025-05-07T00:11:51.663Z] Mind9 system started successfully
+[2025-05-07T00:11:51.664Z] System monitor check completed
+[2025-05-07T00:11:51.664Z] System monitor started, checking every 10 minutes
+[2025-05-07T00:14:10.185Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:14:12.755Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:17:36.364Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:17:39.690Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:17:54.201Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:17:56.505Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:19:03.033Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:19:05.339Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:20:26.422Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:20:28.726Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:22:29.305Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:22:31.733Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:24:51.275Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:24:53.637Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:26:22.523Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:26:25.007Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:28:41.682Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:28:44.016Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:32:19.052Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:32:21.850Z] Starting system monitor...
+[2025-05-07T00:32:21.850Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T00:32:21.850Z] Node.js version: v20.18.1
+[2025-05-07T00:32:21.850Z] Environment: development
+[2025-05-07T00:32:21.890Z] Twitter bot is not running, starting it...
+[2025-05-07T00:32:21.891Z] Executing: Make Twitter bot script executable
+[2025-05-07T00:32:21.949Z] Make Twitter bot script executable completed successfully
+[2025-05-07T00:32:21.949Z] Executing: Start Twitter bot
+[2025-05-07T00:32:26.232Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 8 tweets per day for better community engagement
+* 1-hour minimum between regular tweets
+* 45-minute minimum for ...
+[2025-05-07T00:32:26.239Z] Start Twitter bot completed successfully
+[2025-05-07T00:32:26.248Z] Twitter bot started successfully
+[2025-05-07T00:32:26.451Z] Mind9 system is not running, starting it...
+[2025-05-07T00:32:26.452Z] Executing: Make Mind9 script executable
+[2025-05-07T00:32:27.506Z] Make Mind9 script executable completed successfully
+[2025-05-07T00:32:27.506Z] Executing: Start Mind9 system
+[2025-05-07T00:32:28.407Z] Start Mind9 system completed successfully
+[2025-05-07T00:32:28.412Z] Mind9 system started successfully
+[2025-05-07T00:32:28.420Z] System monitor check completed
+[2025-05-07T00:32:28.421Z] System monitor started, checking every 10 minutes
+[2025-05-07T00:42:28.422Z] ====== SYSTEM MONITOR CHECK ======
+[2025-05-07T00:42:28.442Z] Twitter bot is not running, starting it...
+[2025-05-07T00:42:28.442Z] Executing: Make Twitter bot script executable
+[2025-05-07T00:42:28.456Z] Make Twitter bot script executable completed successfully
+[2025-05-07T00:42:28.456Z] Executing: Start Twitter bot
+[2025-05-07T00:42:29.553Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 8 tweets per day for better community engagement
+* 1-hour minimum between regular tweets
+* 45-minute minimum for ...
+[2025-05-07T00:42:29.553Z] Start Twitter bot completed successfully
+[2025-05-07T00:42:29.553Z] Twitter bot started successfully
+[2025-05-07T00:42:29.574Z] Mind9 system is not running, starting it...
+[2025-05-07T00:42:29.575Z] Executing: Make Mind9 script executable
+[2025-05-07T00:42:29.587Z] Make Mind9 script executable completed successfully
+[2025-05-07T00:42:29.587Z] Executing: Start Mind9 system
+[2025-05-07T00:42:29.594Z] Start Mind9 system completed successfully
+[2025-05-07T00:42:29.594Z] Mind9 system started successfully
+[2025-05-07T00:42:29.595Z] System monitor check completed
+[2025-05-07T00:42:44.245Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:44:26.792Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:45:06.503Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:45:09.258Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:46:57.247Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:46:59.572Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T00:48:31.497Z] System monitor shutting down due to SIGTERM
+[2025-05-07T00:48:33.718Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T01:00:18.831Z] System monitor shutting down due to SIGTERM
+[2025-05-07T01:00:21.094Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T01:02:04.079Z] System monitor shutting down due to SIGTERM
+[2025-05-07T01:02:06.815Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T01:03:44.354Z] System monitor shutting down due to SIGTERM
+[2025-05-07T01:03:46.919Z] Starting system monitor...
+[2025-05-07T01:03:46.919Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T01:03:46.919Z] Node.js version: v20.18.1
+[2025-05-07T01:03:46.919Z] Environment: development
+[2025-05-07T01:03:46.961Z] Twitter bot is not running, starting it...
+[2025-05-07T01:03:46.961Z] Executing: Make Twitter bot script executable
+[2025-05-07T01:03:47.005Z] Make Twitter bot script executable completed successfully
+[2025-05-07T01:03:47.006Z] Executing: Start Twitter bot
+[2025-05-07T01:03:50.226Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 8 tweets per day for better community engagement
+* 1-hour minimum between regular tweets
+* 45-minute minimum for ...
+[2025-05-07T01:03:50.226Z] Start Twitter bot completed successfully
+[2025-05-07T01:03:50.227Z] Twitter bot started successfully
+[2025-05-07T01:03:50.657Z] Mind9 system is not running, starting it...
+[2025-05-07T01:03:50.661Z] Executing: Make Mind9 script executable
+[2025-05-07T01:03:51.614Z] Make Mind9 script executable completed successfully
+[2025-05-07T01:03:51.616Z] Executing: Start Mind9 system
+[2025-05-07T01:03:51.634Z] Start Mind9 system completed successfully
+[2025-05-07T01:03:51.634Z] Mind9 system started successfully
+[2025-05-07T01:03:51.635Z] System monitor check completed
+[2025-05-07T01:03:51.635Z] System monitor started, checking every 10 minutes
+[2025-05-07T01:04:43.563Z] System monitor shutting down due to SIGTERM
+[2025-05-07T01:04:45.869Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T01:11:03.039Z] System monitor shutting down due to SIGTERM
+[2025-05-07T01:11:05.724Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T01:13:05.929Z] System monitor shutting down due to SIGTERM
+[2025-05-07T01:13:08.203Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T01:15:36.967Z] System monitor shutting down due to SIGTERM
+[2025-05-07T01:18:08.117Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T02:46:44.982Z] Starting system monitor...
+[2025-05-07T02:46:44.983Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T02:46:44.983Z] Node.js version: v20.18.1
+[2025-05-07T02:46:44.983Z] Environment: development
+[2025-05-07T02:46:45.021Z] Twitter bot is not running, starting it...
+[2025-05-07T02:46:45.021Z] Executing: Make Twitter bot script executable
+[2025-05-07T02:46:45.040Z] Make Twitter bot script executable completed successfully
+[2025-05-07T02:46:45.042Z] Executing: Start Twitter bot
+[2025-05-07T02:46:49.704Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 8 tweets per day for better community engagement
+* 1-hour minimum between regular tweets
+* 45-minute minimum for ...
+[2025-05-07T02:46:49.704Z] Start Twitter bot completed successfully
+[2025-05-07T02:46:49.704Z] Twitter bot started successfully
+[2025-05-07T02:46:49.744Z] Mind9 system is not running, starting it...
+[2025-05-07T02:46:49.744Z] Executing: Make Mind9 script executable
+[2025-05-07T02:46:50.454Z] Make Mind9 script executable completed successfully
+[2025-05-07T02:46:50.455Z] Executing: Start Mind9 system
+[2025-05-07T02:46:50.657Z] Start Mind9 system completed successfully
+[2025-05-07T02:46:50.658Z] Mind9 system started successfully
+[2025-05-07T02:46:50.658Z] System monitor check completed
+[2025-05-07T02:46:50.658Z] System monitor started, checking every 10 minutes
+[2025-05-07T02:49:35.330Z] System monitor shutting down due to SIGTERM
+[2025-05-07T02:51:29.964Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T02:53:29.385Z] System monitor shutting down due to SIGTERM
+[2025-05-07T02:53:31.721Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T02:54:58.855Z] System monitor shutting down due to SIGTERM
+[2025-05-07T02:55:01.214Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T02:56:57.251Z] System monitor shutting down due to SIGTERM
+[2025-05-07T02:56:59.926Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T02:58:44.939Z] System monitor shutting down due to SIGTERM
+[2025-05-07T02:58:47.943Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T05:21:01.318Z] Starting system monitor...
+[2025-05-07T05:21:01.319Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T05:21:01.319Z] Node.js version: v20.18.1
+[2025-05-07T05:21:01.319Z] Environment: development
+[2025-05-07T05:21:01.360Z] Twitter bot is not running, starting it...
+[2025-05-07T05:21:01.360Z] Executing: Make Twitter bot script executable
+[2025-05-07T05:21:01.377Z] Make Twitter bot script executable completed successfully
+[2025-05-07T05:21:01.377Z] Executing: Start Twitter bot
+[2025-05-07T05:21:05.328Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 8 tweets per day for better community engagement
+* 1-hour minimum between regular tweets
+* 45-minute minimum for ...
+[2025-05-07T05:21:05.328Z] Start Twitter bot completed successfully
+[2025-05-07T05:21:05.328Z] Twitter bot started successfully
+[2025-05-07T05:21:05.951Z] Mind9 system is not running, starting it...
+[2025-05-07T05:21:05.954Z] Executing: Make Mind9 script executable
+[2025-05-07T05:21:05.983Z] Make Mind9 script executable completed successfully
+[2025-05-07T05:21:05.983Z] Executing: Start Mind9 system
+[2025-05-07T05:21:05.999Z] Start Mind9 system completed successfully
+[2025-05-07T05:21:05.999Z] Mind9 system started successfully
+[2025-05-07T05:21:06.000Z] System monitor check completed
+[2025-05-07T05:21:06.001Z] System monitor started, checking every 10 minutes
+[2025-05-07T05:21:38.117Z] System monitor shutting down due to SIGTERM
+[2025-05-07T05:21:50.907Z] Starting system monitor...
+[2025-05-07T05:21:50.907Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T05:21:50.907Z] Node.js version: v20.18.1
+[2025-05-07T05:21:50.907Z] Environment: development
+[2025-05-07T05:21:50.980Z] Twitter bot is not running, starting it...
+[2025-05-07T05:21:50.981Z] Executing: Make Twitter bot script executable
+[2025-05-07T05:21:51.041Z] Make Twitter bot script executable completed successfully
+[2025-05-07T05:21:51.041Z] Executing: Start Twitter bot
+[2025-05-07T05:21:54.567Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-07T05:21:54.572Z] Start Twitter bot completed successfully
+[2025-05-07T05:21:54.576Z] Twitter bot started successfully
+[2025-05-07T05:21:56.214Z] Mind9 system is not running, starting it...
+[2025-05-07T05:21:56.214Z] Executing: Make Mind9 script executable
+[2025-05-07T05:21:56.263Z] Make Mind9 script executable completed successfully
+[2025-05-07T05:21:56.263Z] Executing: Start Mind9 system
+[2025-05-07T05:21:56.384Z] Start Mind9 system completed successfully
+[2025-05-07T05:21:56.385Z] Mind9 system started successfully
+[2025-05-07T05:21:56.391Z] System monitor check completed
+[2025-05-07T05:21:56.391Z] System monitor started, checking every 10 minutes
+[2025-05-07T21:34:14.259Z] Starting system monitor...
+[2025-05-07T21:34:14.411Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T21:34:14.411Z] Node.js version: v20.18.1
+[2025-05-07T21:34:14.411Z] Environment: development
+[2025-05-07T21:34:14.446Z] Twitter bot is not running, starting it...
+[2025-05-07T21:34:14.447Z] Executing: Make Twitter bot script executable
+[2025-05-07T21:34:14.461Z] Make Twitter bot script executable completed successfully
+[2025-05-07T21:34:14.461Z] Executing: Start Twitter bot
+[2025-05-07T21:34:18.921Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-07T21:34:18.923Z] Start Twitter bot completed successfully
+[2025-05-07T21:34:18.923Z] Twitter bot started successfully
+[2025-05-07T21:34:19.761Z] Mind9 system is not running, starting it...
+[2025-05-07T21:34:19.762Z] Executing: Make Mind9 script executable
+[2025-05-07T21:34:20.009Z] Make Mind9 script executable completed successfully
+[2025-05-07T21:34:20.009Z] Executing: Start Mind9 system
+[2025-05-07T21:34:20.019Z] Start Mind9 system completed successfully
+[2025-05-07T21:34:20.020Z] Mind9 system started successfully
+[2025-05-07T21:34:20.020Z] System monitor check completed
+[2025-05-07T21:34:20.020Z] System monitor started, checking every 10 minutes
+[2025-05-07T21:36:38.146Z] System monitor shutting down due to SIGTERM
+[2025-05-07T21:36:40.539Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T21:38:13.996Z] System monitor shutting down due to SIGTERM
+[2025-05-07T21:38:16.571Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T22:05:40.588Z] System monitor shutting down due to SIGTERM
+[2025-05-07T22:05:44.565Z] Starting system monitor...
+[2025-05-07T22:05:44.566Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T22:05:44.566Z] Node.js version: v20.18.1
+[2025-05-07T22:05:44.566Z] Environment: development
+[2025-05-07T22:05:44.694Z] Twitter bot is not running, starting it...
+[2025-05-07T22:05:44.694Z] Executing: Make Twitter bot script executable
+[2025-05-07T22:05:44.749Z] Make Twitter bot script executable completed successfully
+[2025-05-07T22:05:44.750Z] Executing: Start Twitter bot
+[2025-05-07T22:05:49.312Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-07T22:05:49.312Z] Start Twitter bot completed successfully
+[2025-05-07T22:05:49.312Z] Twitter bot started successfully
+[2025-05-07T22:05:49.350Z] Mind9 system is not running, starting it...
+[2025-05-07T22:05:49.350Z] Executing: Make Mind9 script executable
+[2025-05-07T22:05:49.384Z] Make Mind9 script executable completed successfully
+[2025-05-07T22:05:49.384Z] Executing: Start Mind9 system
+[2025-05-07T22:05:49.403Z] Start Mind9 system completed successfully
+[2025-05-07T22:05:49.403Z] Mind9 system started successfully
+[2025-05-07T22:05:49.404Z] System monitor check completed
+[2025-05-07T22:05:49.404Z] System monitor started, checking every 10 minutes
+[2025-05-07T22:15:49.404Z] ====== SYSTEM MONITOR CHECK ======
+[2025-05-07T22:15:49.427Z] Twitter bot is already running
+[2025-05-07T22:15:49.440Z] Mind9 system is not running, starting it...
+[2025-05-07T22:15:49.440Z] Executing: Make Mind9 script executable
+[2025-05-07T22:15:49.448Z] Make Mind9 script executable completed successfully
+[2025-05-07T22:15:49.448Z] Executing: Start Mind9 system
+[2025-05-07T22:15:49.455Z] Start Mind9 system completed successfully
+[2025-05-07T22:15:49.455Z] Mind9 system started successfully
+[2025-05-07T22:15:49.455Z] System monitor check completed
+[2025-05-07T22:25:49.406Z] ====== SYSTEM MONITOR CHECK ======
+[2025-05-07T22:25:49.429Z] Twitter bot is already running
+[2025-05-07T22:25:49.453Z] Mind9 system is not running, starting it...
+[2025-05-07T22:25:49.453Z] Executing: Make Mind9 script executable
+[2025-05-07T22:25:49.468Z] Make Mind9 script executable completed successfully
+[2025-05-07T22:25:49.468Z] Executing: Start Mind9 system
+[2025-05-07T22:25:49.484Z] Start Mind9 system completed successfully
+[2025-05-07T22:25:49.484Z] Mind9 system started successfully
+[2025-05-07T22:25:49.485Z] System monitor check completed
+[2025-05-07T22:35:49.406Z] ====== SYSTEM MONITOR CHECK ======
+[2025-05-07T22:35:49.421Z] Twitter bot is already running
+[2025-05-07T22:35:49.434Z] Mind9 system is not running, starting it...
+[2025-05-07T22:35:49.434Z] Executing: Make Mind9 script executable
+[2025-05-07T22:35:49.443Z] Make Mind9 script executable completed successfully
+[2025-05-07T22:35:49.443Z] Executing: Start Mind9 system
+[2025-05-07T22:35:49.449Z] Start Mind9 system completed successfully
+[2025-05-07T22:35:49.450Z] Mind9 system started successfully
+[2025-05-07T22:35:49.450Z] System monitor check completed
+[2025-05-07T22:45:49.406Z] ====== SYSTEM MONITOR CHECK ======
+[2025-05-07T22:45:49.428Z] Twitter bot is already running
+[2025-05-07T22:45:49.448Z] Mind9 system is not running, starting it...
+[2025-05-07T22:45:49.448Z] Executing: Make Mind9 script executable
+[2025-05-07T22:45:49.460Z] Make Mind9 script executable completed successfully
+[2025-05-07T22:45:49.460Z] Executing: Start Mind9 system
+[2025-05-07T22:45:49.473Z] Start Mind9 system completed successfully
+[2025-05-07T22:45:49.473Z] Mind9 system started successfully
+[2025-05-07T22:45:49.473Z] System monitor check completed
+[2025-05-07T22:47:30.603Z] System monitor shutting down due to SIGTERM
+[2025-05-07T22:47:35.133Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:13:30.162Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:13:32.679Z] Starting system monitor...
+[2025-05-07T23:13:32.680Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T23:13:32.680Z] Node.js version: v20.18.1
+[2025-05-07T23:13:32.680Z] Environment: development
+[2025-05-07T23:13:32.733Z] Twitter bot is not running, starting it...
+[2025-05-07T23:13:32.733Z] Executing: Make Twitter bot script executable
+[2025-05-07T23:13:32.761Z] Make Twitter bot script executable completed successfully
+[2025-05-07T23:13:32.762Z] Executing: Start Twitter bot
+[2025-05-07T23:13:35.387Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-07T23:13:35.389Z] Start Twitter bot completed successfully
+[2025-05-07T23:13:35.391Z] Twitter bot started successfully
+[2025-05-07T23:13:35.931Z] Mind9 system is not running, starting it...
+[2025-05-07T23:13:35.931Z] Executing: Make Mind9 script executable
+[2025-05-07T23:13:37.392Z] Make Mind9 script executable completed successfully
+[2025-05-07T23:13:37.392Z] Executing: Start Mind9 system
+[2025-05-07T23:13:37.443Z] Start Mind9 system completed successfully
+[2025-05-07T23:13:37.447Z] Mind9 system started successfully
+[2025-05-07T23:13:37.448Z] System monitor check completed
+[2025-05-07T23:13:37.448Z] System monitor started, checking every 10 minutes
+[2025-05-07T23:14:59.574Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:15:02.302Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:16:22.067Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:16:27.523Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:18:40.741Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:18:42.804Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:20:37.254Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:20:39.770Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:31:50.613Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:31:52.822Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:36:48.444Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:38:01.234Z] Starting system monitor...
+[2025-05-07T23:38:01.235Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T23:38:01.235Z] Node.js version: v20.18.1
+[2025-05-07T23:38:01.235Z] Environment: development
+[2025-05-07T23:38:01.280Z] Twitter bot is not running, starting it...
+[2025-05-07T23:38:01.281Z] Executing: Make Twitter bot script executable
+[2025-05-07T23:38:01.311Z] Make Twitter bot script executable completed successfully
+[2025-05-07T23:38:01.311Z] Executing: Start Twitter bot
+[2025-05-07T23:38:03.998Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-07T23:38:03.999Z] Start Twitter bot completed successfully
+[2025-05-07T23:38:03.999Z] Twitter bot started successfully
+[2025-05-07T23:38:04.034Z] Mind9 system is not running, starting it...
+[2025-05-07T23:38:04.035Z] Executing: Make Mind9 script executable
+[2025-05-07T23:38:04.056Z] Make Mind9 script executable completed successfully
+[2025-05-07T23:38:04.056Z] Executing: Start Mind9 system
+[2025-05-07T23:38:04.073Z] Start Mind9 system completed successfully
+[2025-05-07T23:38:04.074Z] Mind9 system started successfully
+[2025-05-07T23:38:04.075Z] System monitor check completed
+[2025-05-07T23:38:04.075Z] System monitor started, checking every 10 minutes
+[2025-05-07T23:38:26.980Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:38:29.280Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:40:53.930Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:40:56.321Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:46:54.844Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:46:57.046Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:50:09.701Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:50:12.056Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:54:22.214Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:54:25.099Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:57:28.045Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:57:30.075Z] Another monitor instance appears to be running, skipping startup
+[2025-05-07T23:58:09.615Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:58:12.234Z] Starting system monitor...
+[2025-05-07T23:58:12.235Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-07T23:58:12.235Z] Node.js version: v20.18.1
+[2025-05-07T23:58:12.235Z] Environment: development
+[2025-05-07T23:58:12.267Z] Twitter bot is not running, starting it...
+[2025-05-07T23:58:12.268Z] Executing: Make Twitter bot script executable
+[2025-05-07T23:58:12.297Z] Make Twitter bot script executable completed successfully
+[2025-05-07T23:58:12.298Z] Executing: Start Twitter bot
+[2025-05-07T23:58:14.210Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-07T23:58:14.210Z] Start Twitter bot completed successfully
+[2025-05-07T23:58:14.210Z] Twitter bot started successfully
+[2025-05-07T23:58:14.229Z] Mind9 system is not running, starting it...
+[2025-05-07T23:58:14.230Z] Executing: Make Mind9 script executable
+[2025-05-07T23:58:14.245Z] Make Mind9 script executable completed successfully
+[2025-05-07T23:58:14.248Z] Executing: Start Mind9 system
+[2025-05-07T23:58:14.258Z] Start Mind9 system completed successfully
+[2025-05-07T23:58:14.259Z] Mind9 system started successfully
+[2025-05-07T23:58:14.260Z] System monitor check completed
+[2025-05-07T23:58:14.260Z] System monitor started, checking every 10 minutes
+[2025-05-07T23:59:21.895Z] System monitor shutting down due to SIGTERM
+[2025-05-07T23:59:23.999Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T00:00:01.790Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T00:00:43.178Z] System monitor shutting down due to SIGTERM
+[2025-05-08T00:00:45.715Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T00:02:03.181Z] System monitor shutting down due to SIGTERM
+[2025-05-08T00:02:07.034Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T00:03:36.591Z] System monitor shutting down due to SIGTERM
+[2025-05-08T00:03:39.360Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T00:05:08.338Z] System monitor shutting down due to SIGTERM
+[2025-05-08T00:05:10.963Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T00:06:35.664Z] System monitor shutting down due to SIGTERM
+[2025-05-08T00:06:38.278Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T01:02:28.497Z] Starting system monitor...
+[2025-05-08T01:02:28.499Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-08T01:02:28.499Z] Node.js version: v20.18.1
+[2025-05-08T01:02:28.500Z] Environment: development
+[2025-05-08T01:02:28.612Z] Twitter bot is not running, starting it...
+[2025-05-08T01:02:28.617Z] Executing: Make Twitter bot script executable
+[2025-05-08T01:02:28.723Z] Make Twitter bot script executable completed successfully
+[2025-05-08T01:02:28.723Z] Executing: Start Twitter bot
+[2025-05-08T01:02:35.819Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-08T01:02:35.820Z] Start Twitter bot completed successfully
+[2025-05-08T01:02:35.821Z] Twitter bot started successfully
+[2025-05-08T01:02:35.842Z] Mind9 system is not running, starting it...
+[2025-05-08T01:02:35.842Z] Executing: Make Mind9 script executable
+[2025-05-08T01:02:35.920Z] Make Mind9 script executable completed successfully
+[2025-05-08T01:02:35.921Z] Executing: Start Mind9 system
+[2025-05-08T01:02:35.929Z] Start Mind9 system completed successfully
+[2025-05-08T01:02:35.929Z] Mind9 system started successfully
+[2025-05-08T01:02:35.930Z] System monitor check completed
+[2025-05-08T01:02:35.930Z] System monitor started, checking every 10 minutes
+[2025-05-08T05:08:24.913Z] Starting system monitor...
+[2025-05-08T05:08:25.016Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-08T05:08:25.017Z] Node.js version: v20.18.1
+[2025-05-08T05:08:25.017Z] Environment: development
+[2025-05-08T05:08:25.049Z] Twitter bot is not running, starting it...
+[2025-05-08T05:08:25.049Z] Executing: Make Twitter bot script executable
+[2025-05-08T05:08:25.077Z] Make Twitter bot script executable completed successfully
+[2025-05-08T05:08:25.077Z] Executing: Start Twitter bot
+[2025-05-08T05:08:28.484Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-08T05:08:28.486Z] Start Twitter bot completed successfully
+[2025-05-08T05:08:28.489Z] Twitter bot started successfully
+[2025-05-08T05:08:28.543Z] Mind9 system is not running, starting it...
+[2025-05-08T05:08:28.543Z] Executing: Make Mind9 script executable
+[2025-05-08T05:08:28.567Z] Make Mind9 script executable completed successfully
+[2025-05-08T05:08:28.567Z] Executing: Start Mind9 system
+[2025-05-08T05:08:28.578Z] Start Mind9 system completed successfully
+[2025-05-08T05:08:28.578Z] Mind9 system started successfully
+[2025-05-08T05:08:28.580Z] System monitor check completed
+[2025-05-08T05:08:28.580Z] System monitor started, checking every 10 minutes
+[2025-05-08T05:47:36.976Z] Starting system monitor...
+[2025-05-08T05:47:37.103Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-08T05:47:37.103Z] Node.js version: v20.18.1
+[2025-05-08T05:47:37.103Z] Environment: development
+[2025-05-08T05:47:37.145Z] Twitter bot is not running, starting it...
+[2025-05-08T05:47:37.146Z] Executing: Make Twitter bot script executable
+[2025-05-08T05:47:37.164Z] Make Twitter bot script executable completed successfully
+[2025-05-08T05:47:37.164Z] Executing: Start Twitter bot
+[2025-05-08T05:47:40.275Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-08T05:47:40.276Z] Start Twitter bot completed successfully
+[2025-05-08T05:47:40.276Z] Twitter bot started successfully
+[2025-05-08T05:47:40.286Z] Mind9 system is not running, starting it...
+[2025-05-08T05:47:40.286Z] Executing: Make Mind9 script executable
+[2025-05-08T05:47:40.295Z] Make Mind9 script executable completed successfully
+[2025-05-08T05:47:40.295Z] Executing: Start Mind9 system
+[2025-05-08T05:47:40.301Z] Start Mind9 system completed successfully
+[2025-05-08T05:47:40.301Z] Mind9 system started successfully
+[2025-05-08T05:47:40.302Z] System monitor check completed
+[2025-05-08T05:47:40.302Z] System monitor started, checking every 10 minutes
+[2025-05-08T05:49:39.584Z] System monitor shutting down due to SIGTERM
+[2025-05-08T05:49:42.133Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:29:05.409Z] Starting system monitor...
+[2025-05-08T06:29:05.561Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-08T06:29:05.561Z] Node.js version: v20.18.1
+[2025-05-08T06:29:05.562Z] Environment: development
+[2025-05-08T06:29:05.606Z] Twitter bot is not running, starting it...
+[2025-05-08T06:29:05.606Z] Executing: Make Twitter bot script executable
+[2025-05-08T06:29:05.622Z] Make Twitter bot script executable completed successfully
+[2025-05-08T06:29:05.623Z] Executing: Start Twitter bot
+[2025-05-08T06:29:08.852Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-08T06:29:08.852Z] Start Twitter bot completed successfully
+[2025-05-08T06:29:08.853Z] Twitter bot started successfully
+[2025-05-08T06:29:08.873Z] Mind9 system is not running, starting it...
+[2025-05-08T06:29:08.874Z] Executing: Make Mind9 script executable
+[2025-05-08T06:29:08.887Z] Make Mind9 script executable completed successfully
+[2025-05-08T06:29:08.888Z] Executing: Start Mind9 system
+[2025-05-08T06:29:08.899Z] Start Mind9 system completed successfully
+[2025-05-08T06:29:08.899Z] Mind9 system started successfully
+[2025-05-08T06:29:08.899Z] System monitor check completed
+[2025-05-08T06:29:08.900Z] System monitor started, checking every 10 minutes
+[2025-05-08T06:32:46.364Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:32:48.732Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:35:11.757Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:35:14.366Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:39:41.938Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:39:44.662Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:44:11.934Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:44:15.364Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:47:00.284Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:47:02.718Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:50:30.428Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:50:33.157Z] Starting system monitor...
+[2025-05-08T06:50:33.158Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-08T06:50:33.158Z] Node.js version: v20.18.1
+[2025-05-08T06:50:33.158Z] Environment: development
+[2025-05-08T06:50:33.215Z] Twitter bot is not running, starting it...
+[2025-05-08T06:50:33.216Z] Executing: Make Twitter bot script executable
+[2025-05-08T06:50:33.245Z] Make Twitter bot script executable completed successfully
+[2025-05-08T06:50:33.245Z] Executing: Start Twitter bot
+[2025-05-08T06:50:35.521Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-08T06:50:35.522Z] Start Twitter bot completed successfully
+[2025-05-08T06:50:35.522Z] Twitter bot started successfully
+[2025-05-08T06:50:35.985Z] Mind9 system is not running, starting it...
+[2025-05-08T06:50:35.986Z] Executing: Make Mind9 script executable
+[2025-05-08T06:50:36.450Z] Make Mind9 script executable completed successfully
+[2025-05-08T06:50:36.454Z] Executing: Start Mind9 system
+[2025-05-08T06:50:37.679Z] Start Mind9 system completed successfully
+[2025-05-08T06:50:37.679Z] Mind9 system started successfully
+[2025-05-08T06:50:37.680Z] System monitor check completed
+[2025-05-08T06:50:37.680Z] System monitor started, checking every 10 minutes
+[2025-05-08T06:51:57.724Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:52:00.038Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:53:09.300Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:53:11.528Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:53:35.775Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:53:38.038Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:54:09.962Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:54:12.237Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:54:56.409Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:54:58.626Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:55:55.281Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:55:57.733Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T06:56:04.809Z] System monitor shutting down due to SIGTERM
+[2025-05-08T06:56:07.339Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T07:02:42.048Z] System monitor shutting down due to SIGTERM
+[2025-05-08T07:02:44.294Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T07:04:40.361Z] System monitor shutting down due to SIGTERM
+[2025-05-08T07:04:42.623Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T07:05:02.916Z] System monitor shutting down due to SIGTERM
+[2025-05-08T07:05:05.231Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T07:08:27.397Z] System monitor shutting down due to SIGTERM
+[2025-05-08T07:08:30.074Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T07:10:02.875Z] System monitor shutting down due to SIGTERM
+[2025-05-08T07:10:05.265Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T07:11:43.531Z] System monitor shutting down due to SIGTERM
+[2025-05-08T07:11:46.460Z] Starting system monitor...
+[2025-05-08T07:11:46.462Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-08T07:11:46.462Z] Node.js version: v20.18.1
+[2025-05-08T07:11:46.463Z] Environment: development
+[2025-05-08T07:11:46.537Z] Twitter bot is not running, starting it...
+[2025-05-08T07:11:46.538Z] Executing: Make Twitter bot script executable
+[2025-05-08T07:11:46.640Z] Make Twitter bot script executable completed successfully
+[2025-05-08T07:11:46.645Z] Executing: Start Twitter bot
+[2025-05-08T07:11:49.303Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-08T07:11:49.303Z] Start Twitter bot completed successfully
+[2025-05-08T07:11:49.303Z] Twitter bot started successfully
+[2025-05-08T07:11:49.793Z] Mind9 system is not running, starting it...
+[2025-05-08T07:11:49.795Z] Executing: Make Mind9 script executable
+[2025-05-08T07:11:50.275Z] Make Mind9 script executable completed successfully
+[2025-05-08T07:11:50.276Z] Executing: Start Mind9 system
+[2025-05-08T07:11:52.224Z] Start Mind9 system completed successfully
+[2025-05-08T07:11:52.224Z] Mind9 system started successfully
+[2025-05-08T07:11:52.225Z] System monitor check completed
+[2025-05-08T07:11:52.225Z] System monitor started, checking every 10 minutes
+[2025-05-08T07:12:12.366Z] System monitor shutting down due to SIGTERM
+[2025-05-08T07:12:15.661Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T07:13:54.944Z] System monitor shutting down due to SIGTERM
+[2025-05-08T07:13:57.519Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T07:18:40.215Z] System monitor shutting down due to SIGTERM
+[2025-05-08T07:18:42.531Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T07:23:32.634Z] System monitor shutting down due to SIGTERM
+[2025-05-08T07:23:35.006Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T07:39:18.753Z] Starting system monitor...
+[2025-05-08T07:39:18.873Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-08T07:39:18.873Z] Node.js version: v20.18.1
+[2025-05-08T07:39:18.873Z] Environment: development
+[2025-05-08T07:39:18.902Z] Twitter bot is not running, starting it...
+[2025-05-08T07:39:18.902Z] Executing: Make Twitter bot script executable
+[2025-05-08T07:39:18.911Z] Make Twitter bot script executable completed successfully
+[2025-05-08T07:39:18.911Z] Executing: Start Twitter bot
+[2025-05-08T07:39:23.311Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-08T07:39:23.312Z] Start Twitter bot completed successfully
+[2025-05-08T07:39:23.312Z] Twitter bot started successfully
+[2025-05-08T07:39:23.392Z] Mind9 system is not running, starting it...
+[2025-05-08T07:39:23.392Z] Executing: Make Mind9 script executable
+[2025-05-08T07:39:23.399Z] Make Mind9 script executable completed successfully
+[2025-05-08T07:39:23.399Z] Executing: Start Mind9 system
+[2025-05-08T07:39:23.405Z] Start Mind9 system completed successfully
+[2025-05-08T07:39:23.405Z] Mind9 system started successfully
+[2025-05-08T07:39:23.405Z] System monitor check completed
+[2025-05-08T07:39:23.405Z] System monitor started, checking every 10 minutes
+[2025-05-08T18:25:17.216Z] Starting system monitor...
+[2025-05-08T18:25:17.456Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-08T18:25:17.456Z] Node.js version: v20.18.1
+[2025-05-08T18:25:17.456Z] Environment: development
+[2025-05-08T18:25:17.489Z] Twitter bot is not running, starting it...
+[2025-05-08T18:25:17.490Z] Executing: Make Twitter bot script executable
+[2025-05-08T18:25:17.503Z] Make Twitter bot script executable completed successfully
+[2025-05-08T18:25:17.503Z] Executing: Start Twitter bot
+[2025-05-08T18:25:23.554Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-08T18:25:23.554Z] Start Twitter bot completed successfully
+[2025-05-08T18:25:23.554Z] Twitter bot started successfully
+[2025-05-08T18:25:23.565Z] Mind9 system is not running, starting it...
+[2025-05-08T18:25:23.567Z] Executing: Make Mind9 script executable
+[2025-05-08T18:25:23.644Z] Make Mind9 script executable completed successfully
+[2025-05-08T18:25:23.644Z] Executing: Start Mind9 system
+[2025-05-08T18:25:23.651Z] Start Mind9 system completed successfully
+[2025-05-08T18:25:23.651Z] Mind9 system started successfully
+[2025-05-08T18:25:23.652Z] System monitor check completed
+[2025-05-08T18:25:23.652Z] System monitor started, checking every 10 minutes
+[2025-05-08T21:45:38.892Z] Starting system monitor...
+[2025-05-08T21:45:39.127Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-08T21:45:39.127Z] Node.js version: v20.18.1
+[2025-05-08T21:45:39.127Z] Environment: development
+[2025-05-08T21:45:39.168Z] Twitter bot is not running, starting it...
+[2025-05-08T21:45:39.169Z] Executing: Make Twitter bot script executable
+[2025-05-08T21:45:39.204Z] Make Twitter bot script executable completed successfully
+[2025-05-08T21:45:39.204Z] Executing: Start Twitter bot
+[2025-05-08T21:45:42.851Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-08T21:45:42.854Z] Start Twitter bot completed successfully
+[2025-05-08T21:45:42.854Z] Twitter bot started successfully
+[2025-05-08T21:45:43.391Z] Mind9 system is not running, starting it...
+[2025-05-08T21:45:43.398Z] Executing: Make Mind9 script executable
+[2025-05-08T21:45:43.521Z] Make Mind9 script executable completed successfully
+[2025-05-08T21:45:43.522Z] Executing: Start Mind9 system
+[2025-05-08T21:45:43.989Z] Start Mind9 system completed successfully
+[2025-05-08T21:45:43.989Z] Mind9 system started successfully
+[2025-05-08T21:45:43.990Z] System monitor check completed
+[2025-05-08T21:45:43.990Z] System monitor started, checking every 10 minutes
+[2025-05-08T21:54:03.993Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T22:04:04.464Z] System monitor shutting down due to SIGTERM
+[2025-05-08T22:04:07.600Z] Another monitor instance appears to be running, skipping startup
+[2025-05-08T22:24:57.771Z] System monitor shutting down due to SIGTERM
+[2025-05-12T20:36:40.834Z] Starting system monitor...
+[2025-05-12T20:36:40.837Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-12T20:36:40.838Z] Node.js version: v20.18.1
+[2025-05-12T20:36:40.838Z] Environment: development
+[2025-05-12T20:36:40.904Z] Twitter bot is not running, starting it...
+[2025-05-12T20:36:40.904Z] Executing: Make Twitter bot script executable
+[2025-05-12T20:38:57.135Z] Another monitor instance appears to be running, skipping startup
+[2025-05-12T20:40:31.300Z] Another monitor instance appears to be running, skipping startup
+[2025-05-12T20:57:19.921Z] Starting system monitor...
+[2025-05-12T20:57:19.922Z] ====== SYSTEM MONITOR STARTING ======
+[2025-05-12T20:57:19.923Z] Node.js version: v20.18.1
+[2025-05-12T20:57:19.923Z] Environment: development
+[2025-05-12T20:57:20.037Z] Twitter bot is not running, starting it...
+[2025-05-12T20:57:20.037Z] Executing: Make Twitter bot script executable
+[2025-05-12T20:57:20.051Z] Make Twitter bot script executable completed successfully
+[2025-05-12T20:57:20.051Z] Executing: Start Twitter bot
+[2025-05-12T20:57:23.435Z] Start Twitter bot output: Starting Mind9 Twitter Bot
+------------------------------
+Bot Configuration:
+* Maximum 2 tweets per day
+* 3-hour minimum between tweets
+* Checks for new coins every 15 minutes
+* Tweet schedule: 8:30am...
+[2025-05-12T20:57:23.439Z] Start Twitter bot completed successfully
+[2025-05-12T20:57:23.439Z] Twitter bot started successfully
+[2025-05-12T20:57:23.754Z] Mind9 system is not running, starting it...
+[2025-05-12T20:57:23.754Z] Executing: Make Mind9 script executable
+[2025-05-12T20:57:24.526Z] Make Mind9 script executable completed successfully
+[2025-05-12T20:57:24.526Z] Executing: Start Mind9 system
+[2025-05-12T20:57:25.365Z] Start Mind9 system completed successfully
+[2025-05-12T20:57:25.365Z] Mind9 system started successfully
+[2025-05-12T20:57:25.366Z] System monitor check completed
+[2025-05-12T20:57:25.366Z] System monitor started, checking every 10 minutes
+[2025-05-12T20:58:25.935Z] Another monitor instance appears to be running, skipping startup
